@@ -1,0 +1,3 @@
+alarm[0] = frames_until_spawn;
+
+spawn_boost()
